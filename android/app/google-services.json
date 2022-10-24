@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382139073691",
+    "project_id": "smart-travel-app-admin-panel",
+    "storage_bucket": "smart-travel-app-admin-panel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382139073691:android:1e77ea9c1feeb256f7723e",
+        "android_client_info": {
+          "package_name": "com.example.smart_travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382139073691-7uorpfeghpkaqhk441lt18ao2jjpo7di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0axa9ON09DOkqseJv-yNcE_7TRhqy1AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382139073691-7uorpfeghpkaqhk441lt18ao2jjpo7di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
